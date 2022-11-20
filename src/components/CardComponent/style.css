@@ -1,0 +1,22 @@
+.secondary-img {
+  width: 200px;
+  height: 200px;
+}
+
+.content {
+  overflow: auto;
+  margin-left: 20px;
+}
+
+.list-style {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.list-item-container {
+  display: flex;
+}
+
+
